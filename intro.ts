@@ -1,0 +1,4 @@
+
+let myuser = {name:"Atharva", age:18};
+
+console.log("Atharva");
