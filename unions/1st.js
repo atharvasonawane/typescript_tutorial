@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var id = 45;
+id = 30;
+console.log(id);
+id = "thirty";
+console.log(id);
+var atharva = { name: "something", id: 34 };
+atharva = { username: "random", id: 34 };
+console.log(atharva);
